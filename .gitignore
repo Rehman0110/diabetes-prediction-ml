@@ -42,7 +42,7 @@ Thumbs.db
 !app.py
 !randomforest.ipynb
 !README.md
-!requirements.txt
 !*.pkl
 !data/
-myenv/
+!requirements.txt
+!requirements-minimal.txt
