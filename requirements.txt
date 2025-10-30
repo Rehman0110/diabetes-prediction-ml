@@ -6,11 +6,6 @@ scikit-learn==1.5.1
 # Web Application
 streamlit==1.39.0
 
-# Jupyter Notebook
-jupyter==1.0.0
-notebook==7.2.1
-ipykernel==6.29.5
-
 # Visualization (optional but useful)
 matplotlib==3.9.2
 seaborn==0.13.2
